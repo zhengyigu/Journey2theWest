@@ -1,0 +1,2 @@
+-backend\text_generator_instructor.py是测试文件
+-backend\game_engine.py是后端文件 需搭配backend\api_server.py食用，运行：python api_server.py
